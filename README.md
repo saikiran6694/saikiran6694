@@ -2,8 +2,8 @@
 
 **`Fullstack Developer / Javascript Developer`**
 
-Hi everyone, I'm Saikiran. I'm from India. I am a student of Computer Science and Engineering - Reva University, Bengaluru, India.
-I'm living in Bengaluru, India and work as a fullstack software engineer.
+Hi everyone, I'm Saikiran. I'm from India. I am a Full Stack Developer - Techolution, Hyderabad, India.
+I'm living in Hyderabad, India and work as a fullstack software engineer.
 
 ---
 
