@@ -1,6 +1,6 @@
 # Saikiran
 
-**`Fullstack Developer / Javascript Developer`**
+**`Fullstack Developer / Python Developer`**
 
 Hi everyone, I'm Saikiran. I'm from India. I am a Full Stack Developer - Techolution, Hyderabad, India.
 I'm living in Hyderabad, India and work as a fullstack software engineer.
