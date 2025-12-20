@@ -1,8 +1,8 @@
 # Saikiran
 
-**`Fullstack Developer / Python Developer`**
+**`Software Developer / GenAI Developer`**
 
-Hi everyone, I'm Saikiran. I'm from India. I am a Full Stack Developer - Techolution, Hyderabad, India.
+Hi everyone, I'm Saikiran. I'm from India. I am a Software Engineer, Hyderabad, India.
 I'm living in Hyderabad, India and work as a fullstack software engineer.
 
 ---
