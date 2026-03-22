@@ -2,8 +2,7 @@
 
 **`Software Developer / GenAI Developer`**
 
-Hi everyone, I'm Saikiran. I'm from India. I am a Software Engineer, Hyderabad, India.
-I'm living in Hyderabad, India and work as a fullstack software engineer.
+Hi everyone, I'm Saikiran. I'm from India. I am currently pursuing MSc in Computer Science, St John's, Canada.
 
 ---
 
