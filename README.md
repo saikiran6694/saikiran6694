@@ -65,7 +65,7 @@ I build production-grade AI-powered systems end-to-end — from Kafka-backed ing
 ### 🔀 [Distributed RAG Pipeline](https://github.com/saikiran6694/Distributed-RAG-Pipeline)
 Production-grade distributed RAG system built from scratch. Kafka (4-partition) routes documents through parallel PDF/HTML workers → adaptive chunker (fixed/semantic/hierarchical) → swappable embeddings (HuggingFace / OpenAI / Ollama) → Qdrant vector store + PostgreSQL metadata. Fully instrumented with OpenTelemetry + Jaeger tracing and Prometheus metrics. CI/CD via GitHub Actions with Docker Compose integration tests on every commit.
 
-`Kafka` `Qdrant` `PostgreSQL` `OpenTelemetry` `Prometheus` `Docker` `GitHub Actions`
+`Python` `FastAPI` `Kafka` `Qdrant` `PostgreSQL` `OpenTelemetry` `Prometheus` `Docker` `GitHub Actions`
 
 ---
 
