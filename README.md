@@ -57,7 +57,7 @@ I build AI-powered products end to end — React and TypeScript on the front, No
 
 ## Featured Projects
 
-### 🔀 [Distributed RAG Pipeline](https://github.com/saikiran6694/Distributed-RAG-Pipeline)
+### 🔀 [Distributed RAG Pipeline](https://github.com/saikiran6694/Distributed-RAG-Pipeline) · [Demo video ↗](https://drive.google.com/file/d/1v1J5rRRTQvvq9AchgDY2CXUc1n4MtFbo/view?usp=sharing)
 Document-processing system built from scratch for retrieval at scale. Kafka routes PDFs and HTML through parallel workers → configurable chunking (fixed / semantic / hierarchical) → swappable embeddings (HuggingFace, OpenAI, Ollama) → Qdrant hybrid search with cross-encoder reranking. Redis semantic caching, dead-letter routing, and streaming responses on top; OpenTelemetry, Jaeger, and Prometheus underneath. Docker Compose integration tests run on every commit.
 
 `Python` · `FastAPI` · `Kafka` · `Qdrant` · `PostgreSQL` · `Redis` · `Docker` · `GitHub Actions`
@@ -85,7 +85,7 @@ Multi-tenant analytics backend for collecting and querying application events ov
 
 ---
 
-### 🧠 [Research Mind](https://github.com/saikiran6694/research-mind)
+### 🧠 [Research Mind](https://github.com/saikiran6694/research-mind) · [Live ↗](https://researchers-mind.streamlit.app/)
 Autonomous research agent built on LangGraph — plans a query, fans out across sources, and synthesises what it finds.
 
 `Python` · `LangGraph` · `LLMs` · `chromaDB` · `scraping` · `tool calling` · `ReAct`
