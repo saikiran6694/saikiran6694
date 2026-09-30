@@ -14,7 +14,6 @@ I build AI-powered products end to end — React and TypeScript on the front, No
 - 🔭 Building a distributed RAG pipeline — Kafka ingestion, Qdrant hybrid search, OpenTelemetry tracing
 - 🏥 Software Developer Intern @ CAIR — YAML-driven clinical data platform, voice interaction, contract & invoice workflows
 - 🤖 Two years shipping production React/TypeScript and LLM features at Techolution
-- 📄 Looking for a **Winter 2027 work term** (4 or 8 months, Canada)
 
 ---
 
